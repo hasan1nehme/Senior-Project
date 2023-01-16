@@ -1,0 +1,167 @@
+.intr{
+
+    text-align: center;
+    margin-top: 40px;
+    color: #334a5a;
+
+}
+
+.img2{
+
+    height: 200px;
+    width: 200px;
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+    margin-top: 30px;
+
+}
+
+.heading{
+
+    color: #334a5a;
+    margin-left: 30px;
+    margin-top: 30px;
+
+}
+
+.tex{
+
+    color: rgba(20,188,156,255);
+    margin-left: 30px;
+    margin-top: 20px;
+    margin-right: 50px;
+
+}
+
+.heading1{
+
+    color: #334a5a;
+    margin-left: 30px;
+    margin-top: 60px;
+    
+
+}
+
+.tex1{
+
+    color: rgba(20,188,156,255);
+    margin-left: 30px;
+    margin-top: 20px;
+    margin-right: 50px;
+    margin-bottom: 20px;
+
+}
+
+.li1:hover{
+
+  color: rgba(20,188,156,255);
+
+}
+
+.hr1{
+    height: 5px;
+    width: 900px;
+    background-color: #334a5a;
+    color: #334a5a;
+    margin-top: 60px;
+    margin-left: auto;
+    margin-right: auto;
+    
+  }
+
+  .navbar {
+  
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+    padding: 20px;
+    background-color: white;
+    
+    border-radius: 100px;
+    height: 30px;
+    box-shadow: 2px 2px 5px rgba(20,188,156,255);
+  }
+  .nav-links a {
+    color: #334a5a;
+    padding: 20px;
+    font-size: 20px;
+    
+  }
+
+  .nav-links a:hover {
+    color: rgba(20,188,156,255);
+    
+    transition: 0.11s ease;
+  }
+
+  .name {
+    font-size: 32px;
+    
+  }
+  .menu {
+    display: flex;
+    gap: 1em;
+    font-size: 18px;
+  }
+  .menu li:hover {
+   
+    border-radius: 5px;
+    transition: 0.11s ease;
+  
+      border-bottom: 3px solid rgba(20,188,156,255);
+    
+    
+  }
+  .menu li {
+    padding: 5px 14px;
+    list-style-type: none;
+  }
+
+  a:link { 
+    
+    text-decoration: none; 
+  
+  }
+
+
+a:visited { 
+  
+  text-decoration: none; 
+
+}
+
+
+a:hover { 
+
+  text-decoration: none; 
+
+}
+
+
+a:active { 
+
+  text-decoration: none; 
+
+}
+.img1{
+height: 70px;
+    width: 70px;
+    margin-bottom: -5px;
+    margin-left: 20px;
+    margin-top: 18px;
+    float: left;
+}
+
+.hello{
+
+  color: rgba(20,188,156,255);
+  margin-left: 130px;    
+
+}
+
+body{
+
+    font-family: sans-serif;
+
+}
